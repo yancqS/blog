@@ -1,7 +1,8 @@
 # <center>目录</center>
 
-![](https://img.shields.io/badge/Yoha's%20Blog-Count%2068-green)
+![](https://img.shields.io/badge/Yoha's%20Blog-Count%2069-green)
 
+- [Concurrency vs. Parallelism](https://yancqs.github.io/blog/2021/05/05/concurrency-parallelism/)
 - [博客优化二三事](https://yancqs.github.io/blog/2021/04/21/blog-opt/)
 - [How JavaScript works - inside the V8 engine + 5 tips on how to write optimized code](https://yancqs.github.io/blog/2021/04/13/how-javascript-work2/)
 - [AST实现函数自动包裹try/catch](https://yancqs.github.io/blog/2021/04/10/ast/)
