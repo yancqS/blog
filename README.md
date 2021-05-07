@@ -1,6 +1,6 @@
 # <center>目录</center>
 
-![](https://img.shields.io/badge/Yoha's%20Blog-Count%2069-green)
+![](https://img.shields.io/badge/Yoha's%20Blog-Count%2070-green)
 
 - [Concurrency vs. Parallelism](https://yancqs.github.io/blog/2021/05/05/concurrency-parallelism/)
 - [博客优化二三事](https://yancqs.github.io/blog/2021/04/21/blog-opt/)
@@ -68,6 +68,7 @@
 - [Shell value too great for base](https://yancqs.github.io/blog/2018/12/09/shell-value-too-great-for-base/)
 - [Xshell无法连接到Linux虚拟机](https://yancqs.github.io/blog/2018/10/21/xshell/)
 - [Cookie、Session、WebStorage](https://yancqs.github.io/blog/2018/10/10/cookie/)
+- [Creating and triggering events](https://yancqs.github.io/blog/2018/08/28/custom-event/)
 - [apt-get命令、dpkg命令、rpm命令和yum命令](https://yancqs.github.io/blog/2018/04/30/ubuntu-apt-dpkg/)
 - [Ubuntu 18.04LTS系统设置窗口打不开或者消失解决办法](https://yancqs.github.io/blog/2018/04/29/ubuntu-setting/)
 - [关于linux丢失/root文件夹导致的-bash-4.1#(不显示路径)的解决办法](https://yancqs.github.io/blog/2018/04/13/linux-bash/)
