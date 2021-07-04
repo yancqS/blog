@@ -1,7 +1,8 @@
 # <center>目录</center>
 
-![](https://img.shields.io/badge/Yoha's%20Blog-Count%2076-green)
+![](https://img.shields.io/badge/Yoha's%20Blog-Count%2077-green)
 
+- [ES next](https://yancqs.github.io/blog/2021/07/01/es-next/)
 - [JS 图片压缩](https://yancqs.github.io/blog/2021/06/28/image-compress/)
 - [How JavaScript works - Event loop and the rise of Async programming + 5 ways to better coding with async/await](https://yancqs.github.io/blog/2021/06/22/how-javascript-work4/)
 - [堆和栈的区别](https://yancqs.github.io/blog/2021/06/09/stack-heap-diff/)
