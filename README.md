@@ -1,7 +1,8 @@
 # <center>目录</center>
 
-![](https://img.shields.io/badge/Yoha's%20Blog-Count%2079-green)	![](https://img.shields.io/github/last-commit/yancqS/blog-container/master)	![](https://img.shields.io/badge/vuepress-V1.8.2-green)
+![](https://img.shields.io/badge/Yoha's%20Blog-Count%2080-green)	![](https://img.shields.io/github/last-commit/yancqS/blog-container/master)	![](https://img.shields.io/badge/vuepress-V1.8.2-green)
 
+- [转载-节选-科技爱好者周刊节选（170期）](https://yancqs.github.io/blog/2021/08/07/sci-note3/)
 - [转载-节选-科技爱好者周刊节选（169期）](https://yancqs.github.io/blog/2021/07/30/sci-note2/)
 - [转载-节选-科技爱好者周刊节选（168期）](https://yancqs.github.io/blog/2021/07/23/sci-note/)
 - [ES next](https://yancqs.github.io/blog/2021/07/01/es-next/)
