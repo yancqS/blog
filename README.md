@@ -1,7 +1,8 @@
 # <center>目录</center>
 
-![](https://img.shields.io/badge/Yoha's%20Blog-Count%2081-green)	![](https://img.shields.io/github/last-commit/yancqS/blog-container/master)	![](https://img.shields.io/badge/vuepress-V1.8.2-green)
+![](https://img.shields.io/badge/Yoha's%20Blog-Count%2082-green)	![](https://img.shields.io/github/last-commit/yancqS/blog-container/master)	![](https://img.shields.io/badge/vuepress-V1.8.2-green)
 
+- [转载-节选-科技爱好者周刊节选（171期）](https://yancqs.github.io/blog/2021/08/13/sci-note4/)
 - [为什么设备欺骗变得几乎不可能](https://yancqs.github.io/blog/2021/08/12/device-spoof/)
 - [转载-节选-科技爱好者周刊节选（170期）](https://yancqs.github.io/blog/2021/08/07/sci-note3/)
 - [转载-节选-科技爱好者周刊节选（169期）](https://yancqs.github.io/blog/2021/07/30/sci-note2/)
