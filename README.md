@@ -1,7 +1,8 @@
 # <center>目录</center>
 
-![](https://img.shields.io/badge/Yoha's%20Blog-Count%2083-green)	![](https://img.shields.io/github/last-commit/yancqS/blog-container/master)	![](https://img.shields.io/badge/vuepress-V1.8.2-green)
+![](https://img.shields.io/badge/Yoha's%20Blog-Count%2084-green)	![](https://img.shields.io/github/last-commit/yancqS/blog-container/master)	![](https://img.shields.io/badge/vuepress-V1.8.2-green)
 
+- [How JavaScript works - Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://yancqs.github.io/blog/2021/08/18/how-javascript-work5/)
 - [如何对图片主题色进行提取](https://yancqs.github.io/blog/2021/08/15/get-image-data/)
 - [转载-节选-科技爱好者周刊节选（171期）](https://yancqs.github.io/blog/2021/08/13/sci-note4/)
 - [为什么设备欺骗变得几乎不可能](https://yancqs.github.io/blog/2021/08/12/device-spoof/)
