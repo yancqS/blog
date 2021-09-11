@@ -1,7 +1,8 @@
 # <center>目录</center>
 
-![](https://img.shields.io/badge/Yoha's%20Blog-Count%2088-green)	![](https://img.shields.io/github/last-commit/yancqS/blog-container/master)	![](https://img.shields.io/badge/vuepress-V1.8.2-green)
+![](https://img.shields.io/badge/Yoha's%20Blog-Count%2089-green)	![](https://img.shields.io/github/last-commit/yancqS/blog-container/master)	![](https://img.shields.io/badge/vuepress-V1.8.2-green)
 
+- [转载-节选-科技爱好者周刊节选（175期）](https://yancqs.github.io/blog/2021/09/11/sci-note8/)
 - [转载-节选-科技爱好者周刊节选（174期）](https://yancqs.github.io/blog/2021/09/03/sci-note7/)
 - [深入解析 EventLoop 和浏览器渲染、帧动画、空闲回调的关系](https://yancqs.github.io/blog/2021/09/02/eventloop-raf-rid/)
 - [转载-节选-科技爱好者周刊节选（173期）](https://yancqs.github.io/blog/2021/08/28/sci-note6/)
