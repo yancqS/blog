@@ -1,7 +1,8 @@
 # <center>目录</center>
 
-![](https://img.shields.io/badge/Yoha's%20Blog-Count%2097-green)	![](https://img.shields.io/github/last-commit/yancqS/blog-container/master)	![](https://img.shields.io/badge/vuepress-V1.8.2-green)
+![](https://img.shields.io/badge/Yoha's%20Blog-Count%2098-green)	![](https://img.shields.io/github/last-commit/yancqS/blog-container/master)	![](https://img.shields.io/badge/vuepress-V1.8.2-green)
 
+- [Web Speech API](https://yancqs.github.io/blog/2021/11/24/web-speech-api/)
 - [扩展欧几里德算法](https://yancqs.github.io/blog/2021/11/23/exgcd/)
 - [RSA加密原理（二）](https://yancqs.github.io/blog/2021/11/17/rsa-2/)
 - [RSA算法原理之数论知识](https://yancqs.github.io/blog/2021/11/14/rsa-1/)
