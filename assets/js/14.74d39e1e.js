@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{573:function(t,n,e){},577:function(t,n,e){"use strict";e(573)},651:function(t,n,e){"use strict";e.r(n);e(577);var i=e(7),s=Object(i.a)({},(function(){var t=this.$createElement,n=this._self._c||t;return n("div",[this.$pagination?n("BaseListLayout"):n("Content")],1)}),[],!1,null,null,null);n.default=s.exports}}]);
